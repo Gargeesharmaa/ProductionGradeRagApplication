@@ -6,8 +6,8 @@ langgraph
 langchain-community
 langchain-core
 
- langchain-groq
- groq
+langchain-groq
+groq
 
 langchain-huggingface
 sentence-transformers
