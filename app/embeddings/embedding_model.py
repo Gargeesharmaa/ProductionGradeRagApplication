@@ -1,5 +1,6 @@
-from functools import lru_cache
-from langchain_huggingface import HuggingFaceEmbeddings
+from functools import lru_cache 
+from langchain_huggingface import HuggingFaceEmbeddings\
+
 from app.config import settings
 
 @lru_cache

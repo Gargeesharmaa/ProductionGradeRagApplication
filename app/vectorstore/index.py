@@ -1,7 +1,7 @@
 from uuid import uuid4
 
 from langchain_core.documents import Document
-from qdrant_client.models import Distance, PointStruct, VectorParams
+from qdrant_client import Distance, PointStruct, VectorParams
 
 from app.config import settings
 from app.embeddings.embedding_model import embedding_model

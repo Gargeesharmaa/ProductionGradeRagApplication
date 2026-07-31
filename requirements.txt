@@ -40,3 +40,7 @@ python-multipart
 orjson
 
 sse-starlette
+
+streamlit
+
+redis
